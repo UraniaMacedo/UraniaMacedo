@@ -2,9 +2,9 @@
 
 📱 Mobile Developer | 💻 Full Stack Developer
 
-Sou desenvolvedora apaixonada por criar soluções digitais, desde aplicativos mobile até aplicações web completas.
+Sou desenvolvedora focada em criar produtos digitais completos, unindo desenvolvimento mobile, aplicações web e soluções com foco em experiência do usuário.
 
-Tenho experiência desenvolvendo projetos do zero: ideia, programação, interface, publicação e manutenção.
+Tenho experiência criando projetos do zero: planejamento, desenvolvimento, interface, integração de serviços, publicação e evolução do produto.
 
 📌 Atualmente procurando oportunidades como Desenvolvedora Full Stack / Mobile.
 
@@ -22,16 +22,20 @@ Java | Android | Flutter
 ### Ferramentas
 Git | GitHub | Cloudflare | Firebase
 
+### Outros conhecimentos
+
+SEO | Integrações API | Monetização digital | Google Play Console
+
 ## ⭐ Projetos em destaque
 
 📱 **SnapShrink**
-Aplicativo mobile para redução e otimização de imagens e vídeos.
+Aplicativo Android desenvolvido com Flutter para compressão e otimização de imagens e vídeos, com recursos de monetização e publicação na Google Play.
 
 📄 **PDF Agora**
-Aplicação web para trabalhar com arquivos PDF.
+Aplicação web full stack para manipulação de arquivos PDF, com integração de serviços, autenticação e estrutura preparada para monetização.
 
 🏠 **Urania Hogar Inteligente**
-Projeto web sobre tecnologia para casas inteligentes.
+Plataforma web sobre casa inteligente, SEO e integração de produtos afiliados utilizando Cloudflare Pages.
 
 ---
 
