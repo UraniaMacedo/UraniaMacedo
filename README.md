@@ -40,3 +40,10 @@ Plataforma web sobre casa inteligente, SEO e integração de produtos afiliados 
 ---
 
 🚀 Sempre aprendendo, criando e transformando ideias em produtos digitais.
+## 📫 Contact
+
+LinkedIn: www.linkedin.com/in/urania-pinho-3b7b143b1
+
+Portfolio: https://uraniamacedo-dev.vercel.app/
+
+Email: macedourania@gmail.com
