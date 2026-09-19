@@ -6,6 +6,8 @@ Sou desenvolvedora apaixonada por criar soluções digitais, desde aplicativos m
 
 Tenho experiência desenvolvendo projetos do zero: ideia, programação, interface, publicação e manutenção.
 
+📌 Atualmente procurando oportunidades como Desenvolvedora Full Stack / Mobile.
+
 ## 🚀 Tecnologias
 
 ### Front-end
